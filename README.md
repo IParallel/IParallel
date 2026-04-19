@@ -11,7 +11,7 @@ Systems Engineer & Low-Level Developer focused on game security, reverse enginee
 <img src="https://img.shields.io/badge/C-00d4ff?style=flat-square&logo=c&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/C++-00d4ff?style=flat-square&logo=cplusplus&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/C%23-ff00ff?style=flat-square&logo=csharp&logoColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/Python-00ff88?style=flat-square&logo=python&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Python-25a055?style=flat-square&logo=python&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/Go-00bfff?style=flat-square&logo=go&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/Rust-ff8c00?style=flat-square&logo=rust&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=javascript&logoColor=0a0a0f"/>
@@ -22,25 +22,25 @@ Systems Engineer & Low-Level Developer focused on game security, reverse enginee
 
 **Web & Backend**
 <p align="left">
-<img src="https://img.shields.io/badge/Vue.js-00ff88?style=flat-square&logo=vue.js&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Vue.js-25a055?style=flat-square&logo=vue.js&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/React-00bfff?style=flat-square&logo=react&logoColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/Node.js-00ff88?style=flat-square&logo=node.js&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Node.js-25a055?style=flat-square&logo=node.js&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/Blazor-ff00ff?style=flat-square&logo=blazor&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/WebView2-00bfff?style=flat-square&logo=microsoft&logoColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/REST%20APIs-00ffcc?style=flat-square&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/REST%20APIs-25a055?style=flat-square&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/WebSockets-00bfff?style=flat-square&logoColor=0a0a0f"/>
 </p>
 
 **Game Dev & Modding**
 <p align="left">
 <img src="https://img.shields.io/badge/IL2CPP-ffff00?style=flat-square&logoColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/MelonLoader-00ff88?style=flat-square&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/MelonLoader-25a055?style=flat-square&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/Unity-c0c0c0?style=flat-square&logo=unity&logoColor=0a0a0f"/>
 </p>
 
 **UI & Graphics**
 <p align="left">
-<img src="https://img.shields.io/badge/Dear%20ImGui-00ff88?style=flat-square&logoColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Dear%20ImGui-25a055?style=flat-square&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/Win32%20API-00bfff?style=flat-square&logo=windows&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/DirectX-00bfff?style=flat-square&logo=microsoft&logoColor=0a0a0f"/>
 <img src="https://img.shields.io/badge/OpenGL-00d4ff?style=flat-square&logo=opengl&logoColor=0a0a0f"/>
