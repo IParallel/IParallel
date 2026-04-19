@@ -88,8 +88,7 @@ Systems Engineer & Low-Level Developer focused on game security, reverse enginee
 
 ## 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-IParallel?style=flat-square&logo=github&logoColor=white)](https://github.com/IParallel)
-[![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg)
+[![Discord](https://img.shields.io/badge/Discord-272856046274609152?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/272856046274609152)
 
 ---
 
