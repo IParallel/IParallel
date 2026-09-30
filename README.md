@@ -66,7 +66,7 @@ Systems Engineer & Low-Level Developer focused on game security, reverse enginee
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IParallel&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0a0a0f"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=iparallel&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=0a0a0f"/>
 </p>
 
 ---
